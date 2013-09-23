@@ -165,5 +165,8 @@ int main()
 	std::cout << std::endl << "Minimum perimeter:" << std::endl;
 	v[0]->info();
 
+	for (size_t i = 0; i < v.size(); ++i)
+		delete v[i];
+
 	return 0;
 }
