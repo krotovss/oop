@@ -1,0 +1,11 @@
+9
+Square 1
+Square 10
+Square 3
+Circle 5
+Circle 6
+Circle 1
+RightTriangle 10 10
+RightTriangle 10 20
+RightTriangle 1 100
+
