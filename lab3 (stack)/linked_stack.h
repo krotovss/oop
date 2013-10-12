@@ -103,6 +103,8 @@ public:
 
 		_size = rhs.size();
 		head = deep_copy(rhs.head);
+
+		return *this;
 	}
 };
 
